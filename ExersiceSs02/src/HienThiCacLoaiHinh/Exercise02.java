@@ -20,11 +20,11 @@ public class Exercise02 {
                 break;
             case 2:
                 // In dấu sao hình tam giác vuông góc trên trái
-                for (int a = 0; a < 6; a++) {
-                    for (int b = 5 - a; b > 0; b--) {
+                for (int a = 0; a < 7; a++) {
+                    for (int b = 7 - a; b > 0; b--) {
                         System.out.print("*");
                     }
-                    System.out.println("*");
+                    System.out.println(" ");
                 }
                 // In dấu sao hình tam giác vuông góc dưới trái
 
@@ -32,28 +32,28 @@ public class Exercise02 {
                     for (int y = 0; y < x; y++) {
                         System.out.print("*");
                     }
-                    System.out.println("*");
+                    System.out.println("");
                 }
                 // In dấu sao hình tam giác vuông góc trên phải
-                for (int c = 0; c < 6; c++) {
+                for (int c = 0; c < 7; c++) {
                     for (int d = 0; d < c; d++) {
-                        System.out.print("   ");
+                        System.out.print(" ");
                     }
-                    for (int e = 5 - c; e > 0; e--) {
+                    for (int e = 7 - c; e > 0; e--) {
                         System.out.print("*");
                     }
-                    System.out.println("*");
+                    System.out.println("");
 
                 }
                 // In dấu sao hình tam giác vuông góc dưới phải
-                for (int m = 0; m < 6; m++) {
-                    for (int l = 6 - m; l > 0; l--) {
-                        System.out.print("   ");
+                for (int m = 0; m < 7; m++) {
+                    for (int l = 7 - m; l > 0; l--) {
+                        System.out.print(" ");
                     }
                     for (int n = 0; n < m; n++) {
                         System.out.print("*");
                     }
-                    System.out.println("*");
+                    System.out.println("");
 
                 }
                 break;
@@ -61,18 +61,23 @@ public class Exercise02 {
                 // In hình tam giác cân
                 for (int n = 0; n < 5; n++) {
                     for (int l = 4 - n; l > 0; l--) {
-                        System.out.print("-");
+                        System.out.print(" ");
                     }
                     for (int m = 1; m < (2 * n + 1); m++) {
                         System.out.print("*");
                     }
                     System.out.println("*");
                 }
+                break;
+
             case 4:
                 System.out.println("Exit");
+                break;
         }
     }
 }
+
+//}
 
 
 
