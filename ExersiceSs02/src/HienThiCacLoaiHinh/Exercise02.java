@@ -10,7 +10,7 @@ public class Exercise02 {
 
         switch (choice) {
             case 1:
-                // In dấu sao gồm 3 hàng và 7 cột
+                // In dấu sao hình chữ nhật gồm 3 hàng và 7 cột
                 for (int i = 1; i < 4; i++) {
                     for (int j = 1; j < 7; j++) {
                         System.out.print("*");
@@ -19,7 +19,7 @@ public class Exercise02 {
                 }
                 break;
             case 2:
-// In dấu sao hình tam giác vuông góc trên trái
+                // In dấu sao hình tam giác vuông góc trên trái
                 for (int a = 0; a < 6; a++) {
                     for (int b = 5 - a; b > 0; b--) {
                         System.out.print("*");
