@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef58411b-1926-4ff1-bd75-a9f503084486" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Exercise01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/Exercise01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/Exercise01_02_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/Exercise04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/Exercise05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/Exercise06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/Exercise07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/Exercise01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/Exercise01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/Exercise01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/Exercise01/Exercise01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/Exercise01/Exercise01_02_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/Exercise01/Exercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/Exercise01/Exercise05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/Exercise01/Exercise06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/Exercise01/Exercise07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/exercise1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/exercise1/.idea/exercise1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/exercise1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/exercise1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/exercise1/Excercise06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/exercise1/Excercise07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/exercise1/Exercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/exercise1/Exercise05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise01/out/production/exercise1/Session1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/Exersice02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/Session2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/Date.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/Exercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/Exercise03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/Exercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/Exercise05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/Exercise06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/Exercise07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/Exersise08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Exersice02/baitap1/Exercise01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Session2/Exercise01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Session2/Exercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Session2/Exercise03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Session2/Exercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/out/production/Session2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/Exercise02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/Exercise03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/Exercise04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/Exercise05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/Exercise06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/Exercise07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/Exersise08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exersice02/src/baitap1/Exercise01.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2an2WRHLLJAPb7xICkQZGGXLb28" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/dminhi/Desktop/Minh JV221103/Module02/Exercise/ExcersiseSs03/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-203781b8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef58411b-1926-4ff1-bd75-a9f503084486" name="Changes" comment="" />
+      <created>1704940069828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704940069828</updated>
+      <workItem from="1704940070916" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
