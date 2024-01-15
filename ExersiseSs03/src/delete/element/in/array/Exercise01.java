@@ -1,4 +1,4 @@
-package XoáPhầnTửKhỏiMảng;
+package delete.element.in.array;
 
 import java.util.Random;
 import java.util.Scanner;

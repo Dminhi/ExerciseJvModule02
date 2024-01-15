@@ -1,4 +1,4 @@
-package ThêmPhầnTửVàoMảng;
+package push.element.into.array;
 
 import java.util.Random;
 import java.util.Scanner;
