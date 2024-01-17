@@ -8,6 +8,7 @@ public class CheckRegex {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Mời nhập email");
         String email = scanner.nextLine();
-        boolean check = Pattern.matches("^(?:(?!\\.\\s)[\\w.-]+)@([A-Za-z0-9]+)\\.\\s([A-Za-z0-9]+)\\.\\s([A-Za-z0-9]+)$\n",email);
+        boolean check = email.matches("^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$");
+        System.out.println(check);
     }
 }
