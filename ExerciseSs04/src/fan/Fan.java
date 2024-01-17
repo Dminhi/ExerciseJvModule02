@@ -1,40 +1,16 @@
 package fan;
 
-public class fan {
+public class Fan {
 
-    private int SLOW = 1;
-    private int MEDIUM = 2;
-    private int FAST = 3;
+    public static final int SLOW = 1;
+    public static final int MEDIUM = 2;
+    public static final int FAST = 3;
 
     private int speed;
     private boolean on;
 
     private double radius;
     private String color;
-
-    public int getSLOW() {
-        return SLOW;
-    }
-
-    public void setSLOW(int SLOW) {
-        this.SLOW = SLOW;
-    }
-
-    public int getMEDIUM() {
-        return MEDIUM;
-    }
-
-    public void setMEDIUM(int MEDIUM) {
-        this.MEDIUM = MEDIUM;
-    }
-
-    public int getFAST() {
-        return FAST;
-    }
-
-    public void setFAST(int FAST) {
-        this.FAST = FAST;
-    }
 
     public int getSpeed() {
         return speed;
@@ -68,11 +44,18 @@ public class fan {
         this.color = color;
     }
 
-    public fan(){
-        int SLOW = 1;
+    public Fan(){
+        int speed = SLOW;
         boolean on = false;
         String color = "blue";
+        double radius = 5;
     }
 
-
+    public String toString(){
+if(on){
+    return "Speed : " + speed + " Color : "+ color+" Radius "+radius+" fan is on";
+} else {
+    return "Color : " + color + " Radius "+radius + " fan is off";
+}
+    }
 }
