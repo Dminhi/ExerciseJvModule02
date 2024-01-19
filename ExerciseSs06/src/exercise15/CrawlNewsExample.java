@@ -20,7 +20,7 @@ public class CrawlNewsExample {
         // remove all new line
         content = content.replaceAll("\\n+", "");
 // regex
-        Pattern p = Pattern.compile("article-title\">(.*?)</h3>");
+        Pattern p = Pattern.compile("article-title\"><a[^>]*>(.*?)</a></h3>");
         Matcher m = p.matcher(content);
         while (m.find()) {
             System.out.println(m.group(1));
