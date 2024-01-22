@@ -1,17 +1,19 @@
 package baitap02.ra;
 
 public class Point2D {
+    // Khởi tạo biến x,y
     float x = 0f;
     float y = 0f;
-
+    // Hàm khởi tạo đối tượng không đối số
     public Point2D() {
     }
+    // Hàm khởi tạo đối tượng có đối số
 
     public Point2D(float x, float y) {
         this.x = x;
         this.y = y;
     }
-
+    // get và set các giá trị x,y
     public float getX() {
         return x;
     }

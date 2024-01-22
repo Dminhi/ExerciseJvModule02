@@ -1,10 +1,10 @@
 package baitap04.ra;
-
+    // Extend class Triangel từ class Shape
 public class Triangel extends Shape {
+    // Khởi tạo các biến đại diện cho 3 cạnh của 1 tam giác
     private double side1=1.0;
     private double side2=1.0;
     private double side3=1.0;
-
     public Triangel(double a, double b, double c) {
     }
 
@@ -14,6 +14,7 @@ public class Triangel extends Shape {
         this.side2 = side2;
         this.side3 = side3;
     }
+    // Hàm khởi tạo không tham số
 
     public Triangel() {
     }
