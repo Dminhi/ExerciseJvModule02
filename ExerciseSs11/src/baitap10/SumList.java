@@ -1,14 +1,17 @@
-package baitap08;
+package baitap10;
 
 import java.util.ArrayList;
 
 import static baitap07.DeleteEven.getIntegers;
 
-public class addAllList {
+public class SumList {
     public static void main(String[] args) {
         ArrayList<Integer> arrayList = getIntegers();
         System.out.println(arrayList);
-        ArrayList<Integer> newArrayList = new ArrayList<>(arrayList);
-        System.out.println(newArrayList);
+        int sum=0;
+        for (Integer i : arrayList) {
+            sum+=i;
+        }
+        System.out.println(sum);
     }
 }
