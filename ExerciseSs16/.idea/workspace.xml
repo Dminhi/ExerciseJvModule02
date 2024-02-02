@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2bb1b99-0edc-4df4-bb5c-732897fc0c8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Exercise15/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/Exercise15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/src/baitap01/findBigestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/src/baitap02/findSmallestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/src/baitap03/findNumberInMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/src/baitap04/findBigestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise15/src/baitap15/findStringLongest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2beXtMYEjzdVjWF49bSrk9EtFmb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.baitap04.findBigestNumber.executor": "Run",
+    "Application.findBigestNumber.executor": "Run",
+    "Application.findNumberInMatrix.executor": "Run",
+    "Application.findSmallestNumber.executor": "Run",
+    "Application.findStringLongest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dminhi/Desktop/Minh JV221103/Module02/Exercise/ExerciseSs16",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/dminhi/Desktop/Minh JV221103/Module02/Doccument/Ss15Search/Exercise15/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.baitap04.findBigestNumber">
+    <configuration name="baitap04.findBigestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap04.findBigestNumber" />
+      <module name="Exercise15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findBigestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap01.findBigestNumber" />
+      <module name="Exercise15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findNumberInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap03.findNumberInMatrix" />
+      <module name="Exercise15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findSmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap02.findSmallestNumber" />
+      <module name="Exercise15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findStringLongest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap15.findStringLongest" />
+      <module name="Exercise15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitap15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.baitap04.findBigestNumber" />
+        <item itemvalue="Application.findNumberInMatrix" />
+        <item itemvalue="Application.findStringLongest" />
+        <item itemvalue="Application.findSmallestNumber" />
+        <item itemvalue="Application.findBigestNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-203781b8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2bb1b99-0edc-4df4-bb5c-732897fc0c8b" name="Changes" comment="" />
+      <created>1706576735811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706576735811</updated>
+      <workItem from="1706576736873" duration="890000" />
+      <workItem from="1706579885291" duration="13000" />
+      <workItem from="1706671181803" duration="16894000" />
+      <workItem from="1706749482420" duration="1392000" />
+      <workItem from="1706755467597" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
